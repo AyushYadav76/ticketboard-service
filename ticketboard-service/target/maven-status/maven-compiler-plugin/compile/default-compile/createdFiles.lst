@@ -1,6 +1,0 @@
-com\ticketboard\service\TicketService.class
-com\ticketboard\model\Ticket.class
-com\ticketboard\TicketboardApplication.class
-com\ticketboard\controller\TicketController.class
-com\ticketboard\repository\TicketRepository.class
-com\ticketboard\dto\TicketDto.class
